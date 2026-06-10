@@ -123,7 +123,7 @@ public class GameManager : MonoBehaviour {
             score = destination.y + 1;
             scoreText.text = $"{score}";
 
-            if(score >= 20) {
+            if(score >= 50) {
               PlayerWin();
             }
           }
