@@ -31,7 +31,7 @@ A 3D endless runner inspired by Crossy Road, developed in Unity featuring:
 - 3D models, prefabs, and shaders
 
 ▶️ **Watch the gameplay video here:**  
-https://www.youtube.com/watch?v=TU_VIDEO_CROSSYROAD
+https://www.youtube.com/watch?v=BqVeU3oekok
 
 🌐 **Play the game online:**  
-https://yasg061.github.io/CrossyRoad/
+https://yasg061.github.io/crossy_road_gameplay/
